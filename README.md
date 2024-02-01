@@ -47,3 +47,18 @@ php spark serve
 ``` 
 
 Sekarang buka browser dengan alamat address http://localhost:8080/
+
+### Credentials
+```
+administrator
+username : admin
+password : admin123
+
+kasir
+username : kasirmalang1
+password : kasir123
+
+owner
+username : ownermalang
+password : ownermalang
+``` 
