@@ -18,7 +18,12 @@ cd Laundry-CodeIgniter-4
 composer install
 ```
 
-### Buat database baru. Kemudian rename .env.example ke .env selanjutnya sesuaikan dengan konfigurasi database:
+### Copy file .env.example
+```
+cp .env.example .env
+```
+
+### Buat database baru dan konfigurasi file .env:
 ```
 database.default.hostname = localhost
 database.default.database = db_laundry
