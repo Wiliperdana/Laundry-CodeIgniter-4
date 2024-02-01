@@ -2,6 +2,10 @@
 
 Aplikasi Sederhana Pengelolaan Laundry Menggunakan CodeIgniter 4. 
 
+![Alt text](/public/img/ss-login.png "Login Page")
+![Alt text](/public/img/ss-outlet.png "Outlet Page")
+![Alt text](/public/img/ss-transaksi.png "Transaksi Page")
+
 # Installation
 ### Clone the repository:
 ```
